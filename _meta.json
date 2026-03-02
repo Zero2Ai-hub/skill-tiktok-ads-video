@@ -1,6 +1,6 @@
 {
   "name": "skill-tiktok-ads-video",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Generate TikTok-style short-form ad videos with animated pill captions. Built-in product presets — no captions JSON needed.",
   "author": "Zero2Ai-hub",
   "license": "MIT"
